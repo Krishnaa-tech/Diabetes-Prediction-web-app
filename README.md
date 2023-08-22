@@ -1,3 +1,4 @@
+[![Build and deploy Python app to Azure Web App - diabetes-predictor-web-app](https://github.com/Krishnaa-tech/Diabetes-Prediction-web-app/actions/workflows/main_diabetes-predictor-web-app.yml/badge.svg)](https://github.com/Krishnaa-tech/Diabetes-Prediction-web-app/actions/workflows/main_diabetes-predictor-web-app.yml)
 # Diabetes-Prediction-web-app
 
 # Diabetes Prediction - Deployment
