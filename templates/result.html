@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title>Diabetes Prediction Web App</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='diabetes-favicon.ico') }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://kit.fontawesome.com/5f3f547070.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <style>
+        .container {
+            text-align: center;
+            padding: 80px 0;
+        }
+        
+        .container-heading {
+            font-family: 'Pacifico', cursive;
+            font-size: 36px;
+            color: #333;
+        }
+        
+        .description {
+            margin-top: 20px;
+        }
+        
+        .results {
+            text-align: center;
+            margin-top: 40px;
+        }
+        
+        .danger {
+            color: red;
+        }
+        
+        .safe {
+            color: green;
+        }
+        
+        .gif, .gif1 {
+            margin-top: 20px;
+            max-width: 100%;
+            height: auto;
+        }
+        
+        .contact {
+            margin-top: 20px;
+        }
+        
+        .contact-icon {
+            margin: 0 10px;
+            font-size: 24px;
+            color: #333;
+        }
+        
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px 0;
+            background-color: #f8f9fa;
+        }
+        
+        .footer-description {
+            margin-top: 10px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2 class="container-heading">Diabetes Prediction Web App</h2>
+        <div class="description">
+            <p>Predict here; Do Consult doctor! 😊</p>
+        </div>
+    </div>
+
+    <div class="results">
+        {% if prediction == 1 %}
+            <h1>Prediction: <span class="danger">Oops! You have DIABETES. TAKE CARE!</span></h1>
+            <img class="gif" src="{{ url_for('static', filename='diabetes.webp') }}" alt="Diabetes Image">
+        {% elif prediction == 0 %}
+            <h1>Prediction: <span class="safe">Great! You DON'T have diabetes.</span></h1>
+            <img class="gif1" src="{{ url_for('static', filename='no-diabetes.webp') }}" alt="Not Diabetes Image">
+        {% endif %}
+    </div>
+
+    <div class="footer">
+        <div class="contact">
+            <a target="_blank" href="https://github.com/THERCW"><i class="fab fa-github fa-lg contact-icon"></i></a>
+            <a target="_blank" href="https://www.linkedin.com/in/rushikesh-wankar-13239a1b9/"><i class="fab fa-linkedin fa-lg contact-icon"></i></a>
+        </div>
+        <p class="footer-description">&copy; Project by Krish Goyal</p>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
