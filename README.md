@@ -15,7 +15,7 @@
 ># _Microsoft-Future-Ready-Talent-Internship-Project_
 
 ># Diabetes Prediction WebApp
-This repository aims towards the task of the Project of the Internship where we host predict the user whether they have diabetes or not, which consists of files required to deploy a ___Web App___ created with ___Flask___ on ___Microsoft___ Azure.
+This repository aims towards the task of the Project of the Internship where we host predict the user whether they have diabetes or not, which consists of files required to deploy a ___Web App___ created with ___Flask___ on ___Microsoft___ Azure .
 
 **Web Technologies used:** HTML, CSS, Bootstrap
 
@@ -33,7 +33,7 @@ __Industry:__ Health
 
 **Main Objective:** The project aims to create a user-friendly web application that assists in the early detection and monitoring of diabetes risk. The basic functionality involves users providing their health parameters and receiving instant risk predictions, personalized insights, and recommendations. 
 
-**Primary Azure Technology:** Azure App Service , Web App
+**Primary Azure Technology:** Azure App Service , Azure Health Bot
 
 ![git1](https://github.com/Krishnaa-tech/Travel-Tech-Microsoft-FRT/blob/5bbacc6f6d612a88ae5a3b6b6647b8ff85e85cd3/images/git1.png)
 
