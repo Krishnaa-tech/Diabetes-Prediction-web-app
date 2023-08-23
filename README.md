@@ -29,9 +29,9 @@ __Industry:__ Health
 
 **Problem Statement/Opportunity:** The project addresses the problem of diabetes risk assessment by offering a user-friendly web application that leverages data analysis and machine learning. This initiative not only aids in early detection but also empowers individuals to take charge of their health through informed decisions, potentially leading to a broader impact on preventive healthcare practices.
 
-**Project Description:** The core idea of this project is to develop a web application that enables users to assess their risk of developing diabetes based on input parameters such as BMI, glucose level, insulin level, age, and more. The project addresses the need for early detection and risk monitoring of diabetes, providing users with a tool to understand their health status and make informed decisions.
+**Project Description:** The core idea of this project is to create a user-friendly web application that allows individuals to assess their risk of diabetes using health parameters like BMI, glucose level, insulin level, age, and more. Additionally, this project addresses the need for accessible health assessment tools by integrating Azure Health Bot, which enhances user interaction and provides a comprehensive health experience.
 
-**Main Objective:** The project aims to create a user-friendly web application that assists in the early detection and monitoring of diabetes risk. The basic functionality involves users providing their health parameters and receiving instant risk predictions, personalized insights, and recommendations. 
+**Main Objective:** The project aims to create a user-friendly web application that assists in the early detection and monitoring of diabetes risk. The basic functionality involves users providing their health parameters and receiving instant risk predictions, personalized insights, and recommendations. The integration of Azure Health Bot further enhances the user experience by providing reliable health information and support.
 
 **Primary Azure Technology:** Azure App Service , Azure Health Bot
 
