@@ -8,7 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Krishnaa-tech/Diabetes-Prediction-web-app.svg?style=social&label=Star)](https://GitHub.com/Krishnaa-tech/Diabetes-Prediction-web-app/stargazers/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Krishnaa-tech/Diabetes-Prediction-web-app/HEAD)
 [![Gitter](https://badges.gitter.im/Krishnaa-tech/Diabetes-Prediction-web-app.svg)](https://gitter.im/Krishnaa-tech/Diabetes-Prediction-web-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Build and deploy Python app to Azure Web App - diabetes-predictor-web-app](https://github.com/Krishnaa-tech/Diabetes-Prediction-web-app/actions/workflows/main_diabetes-predictor-web-app.yml/badge.svg)](https://github.com/Krishnaa-tech/Diabetes-Prediction-web-app/actions/workflows/main_diabetes-predictor-web-app.yml)
+[![Build and deploy Python app to Azure Web App - Diabetes-Prediction-WebApp](https://github.com/Krishnaa-tech/Diabetes-Prediction-web-app/actions/workflows/main_diabetes-prediction-webapp.yml/badge.svg?branch=main)](https://github.com/Krishnaa-tech/Diabetes-Prediction-web-app/actions/workflows/main_diabetes-prediction-webapp.yml)
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) 
 ![Python 3.11.6](https://img.shields.io/badge/Python-3.11-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
