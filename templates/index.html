@@ -9,7 +9,7 @@
         <script src="https://kit.fontawesome.com/5f3f547070.js" crossorigin="anonymous"></script>
         <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-
+        <script src="https://cdn.botframework.com/botframework-webchat/latest/webchat.js"></script>
     </head>
 
     <body>
@@ -37,7 +37,8 @@
                 <input type="submit" class="my-cta-button" value="Predict">
             </form>
     </div>
-
+    <div id="webchat-container"><div id="webchat"></div></div>
+    
         <!-- Footer -->
             <div class='footer'>
             <div class="contact">
@@ -46,6 +47,19 @@
             </div>
             <p class='footer-description'>&copy; Project by Krish Goyal</p>
         </div>
-
+        <script>
+            // Initialize Web Chat
+            const webChatContainer = document.getElementById('webchat-container');
+            const directLineSecret = 'YOUR_DIRECT_LINE_SECRET'; // Replace with your Direct Line secret
+        
+            const webChat = window.WebChat.createDirectLine({
+                secret: directLineSecret
+            });
+        
+            window.WebChat.renderWebChat({
+                directLine: webChat
+            }, webChatContainer);
+        </script>
     </body>
 </html>
+
