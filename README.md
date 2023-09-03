@@ -37,4 +37,14 @@ __Industry:__ Health
 
 ![git1](https://github.com/Krishnaa-tech/Travel-Tech-Microsoft-FRT/blob/5bbacc6f6d612a88ae5a3b6b6647b8ff85e85cd3/images/git1.png)
 
+## Screenshots
+![Main Page](https://github.com/Krishnaa-tech/Diabetes-Prediction-web-app/blob/b891e722bc34d77eedece8778e69cef41854f98f/static/pic1.png)
+![](https://github.com/Krishnaa-tech/Diabetes-Prediction-web-app/blob/b891e722bc34d77eedece8778e69cef41854f98f/static/pic2.png)
+#### No Diabetes!!
+![](https://github.com/Krishnaa-tech/Diabetes-Prediction-web-app/blob/b891e722bc34d77eedece8778e69cef41854f98f/static/pic3.png)
+#### ALERT for Diabetes!!
+![](https://github.com/Krishnaa-tech/Diabetes-Prediction-web-app/blob/b891e722bc34d77eedece8778e69cef41854f98f/static/pic5.png)
+
+## HealthBot Screenshots
+![](https://github.com/Krishnaa-tech/Diabetes-Prediction-web-app/blob/b891e722bc34d77eedece8778e69cef41854f98f/static/pic4.png)
 _**Developed By:**_ [Krish Goyal](https://github.com/Krishnaa-tech) 
