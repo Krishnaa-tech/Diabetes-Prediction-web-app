@@ -36,8 +36,14 @@ __Industry:__ Health
 **Primary Azure Technology:** Azure App Service , Azure Health Bot
 
 ![git1](https://github.com/Krishnaa-tech/Travel-Tech-Microsoft-FRT/blob/5bbacc6f6d612a88ae5a3b6b6647b8ff85e85cd3/images/git1.png)
+>## Azure Services Screenshots
+### <p align="center">Azure Web App</p>
+![](https://github.com/Krishnaa-tech/Diabetes-Prediction-web-app/blob/cb7e0555497cc4ba42b83996090f376709354d1e/static/pic6.png)
 
->## Screenshots
+### <p align="center">Azure Health Bot</p>
+![](https://github.com/Krishnaa-tech/Diabetes-Prediction-web-app/blob/cb7e0555497cc4ba42b83996090f376709354d1e/static/pic7.png)
+
+>## Website Screenshots
 ![Main Page](https://github.com/Krishnaa-tech/Diabetes-Prediction-web-app/blob/b891e722bc34d77eedece8778e69cef41854f98f/static/pic1.png)
 ![](https://github.com/Krishnaa-tech/Diabetes-Prediction-web-app/blob/b891e722bc34d77eedece8778e69cef41854f98f/static/pic2.png)
 >#### No Diabetes!!
